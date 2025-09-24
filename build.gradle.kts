@@ -13,7 +13,7 @@ repositories {
 dependencies {
     implementation("io.javalin:javalin:6.7.0")
     implementation("org.commonmark:commonmark:0.26.0")
-    implementation("org.commonmark:commonmark-ext-yaml-front-matter:0.25.1")
+    implementation("org.commonmark:commonmark-ext-yaml-front-matter:0.26.0")
     implementation("org.slf4j:slf4j-simple:2.0.17")
 }
 
